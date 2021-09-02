@@ -1,8 +1,7 @@
 #### Je m'appelle Emilien BARDE
 
 Mon Twitter : 
-<iframe border=0 frameborder=0 height=250 width=550
- src="https://twitframe.com/show?url=https://twitter.com/emilien_barde/status/1426562374841114625"></iframe>
+<a class="twitter-timeline" href="https://twitter.com/emilien_barde?ref_src=twsrc%5Etfw">Tweets by emilien_barde</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 Mon Instagram
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Emilien-B&show_icons=true&theme=graywhite&include_all_commits=true&locale=fr"/>
