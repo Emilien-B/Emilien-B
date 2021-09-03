@@ -11,7 +11,7 @@
 
 [**📈 Mes statistiques GitHub**](#mes-statistiques-github)
 
-> **Cette page : emilien-b.github.io/emilien-b/ - emilienb.cf**
+> Cette page : [**emilienb.cf**](https://emilien-b.github.io/Emilien-B/)
 
 # Mes statistiques  GitHub
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Emilien-B&show_icons=true&theme=graywhite&include_all_commits=true&locale=fr"/>
