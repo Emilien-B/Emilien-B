@@ -1,0 +1,2 @@
+# PrivacyPolicies
+Ensemble des politiques de confidentialités de [mes apps](https://play.google.com/store/apps/dev?id=8080634739850269491) disponible sur le [Google Play Store](https://play.google.com/store/apps).
