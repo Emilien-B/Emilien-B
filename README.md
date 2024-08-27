@@ -2,16 +2,12 @@
 
 [**🐦 Mon Twitter**](#mes-tweets)
 
-[**📸 Mon Instagram** - instagram.com/emilien.b31]()
-
 [**💰 Me soutenir** - paypal.com/emilienb31](https://www.paypal.com/paypalme/emilienb31)
 
 [**🖥 Mes projets** - github.com/EmilienB](https://github.com/Emilien-B?tab=repositories)
 
 
 [**📈 Mes statistiques GitHub**](#mes-statistiques-github)
-
-> Cette page : [**emilienb.cf**](https://emilien-b.github.io/Emilien-B/)
 
 # Mes statistiques  GitHub
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Emilien-B&show_icons=true&theme=graywhite&include_all_commits=true&locale=fr"/>
